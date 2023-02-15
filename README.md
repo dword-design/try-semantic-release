@@ -60,6 +60,10 @@ $ yarn add @dword-design/try-semantic-release
 ```
 <!-- /INSTALL -->
 
+## Usage
+
+foo
+
 <!-- LICENSE/ -->
 ## Contribute
 
