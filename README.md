@@ -62,7 +62,7 @@ $ yarn add @dword-design/try-semantic-release
 
 ## Usage
 
-foo
+foo2
 
 <!-- LICENSE/ -->
 ## Contribute
