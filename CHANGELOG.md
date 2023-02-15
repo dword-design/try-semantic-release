@@ -1,3 +1,18 @@
+# [3.0.0](https://github.com/dword-design/try-semantic-release/compare/v2.0.0...v3.0.0) (2023-02-15)
+
+
+### Features
+
+* foo ([79c6156](https://github.com/dword-design/try-semantic-release/commit/79c615640f87b2935b5d06a1a80716f165333a8c))
+
+
+### BREAKING CHANGES
+
+* There has been a breaking change!
+* There has been another breaking change!
+
+Some details about the breaking changes
+
 # [2.0.0](https://github.com/dword-design/try-semantic-release/compare/v1.0.0...v2.0.0) (2023-02-15)
 
 
