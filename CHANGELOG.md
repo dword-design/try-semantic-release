@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/dword-design/try-semantic-release/compare/v1.0.0...v2.0.0) (2023-02-15)
+
+
+### Bug Fixes
+
+* foo ([ed65640](https://github.com/dword-design/try-semantic-release/commit/ed65640485d331af8bc0928cde4c1316713457a3))
+
+
+### BREAKING CHANGES
+
+* There has been a breaking change!
+
+Some details about the breaking change
+* There has been another breaking change!
+
+Some details about the other breaking change
+
 # 1.0.0 (2023-02-15)
 
 
